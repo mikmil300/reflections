@@ -9,3 +9,7 @@ The staging area may contain all, some or none of the files in the working direc
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can use git diff to verify the change between the working directory and the staging area to see what changes have been made. If a single logical change was made then it would be a good idea to make a commit.
+
+I am going to use this line to practice my knowledge of using the staging area to compare files in the working directory with those that are staged and with those in the master commit 
+
+Ok, I saved the file after adding 13 and then staged it. I ran git diff.  Nothing showed.  I will now save again and run git diff.  Also I will run git diff --staged.
