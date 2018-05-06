@@ -21,3 +21,8 @@ When developing a new feature you are not sure you want included with your main 
 How do the diagrams help you visualize the branch structure?
 
 They show you the relationship between commits back to a joint parent.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches effectively combines all commits to the same branch.  The diagrm shows the relationship which results
+in all prior commits from both branches being accessable from the new master.
