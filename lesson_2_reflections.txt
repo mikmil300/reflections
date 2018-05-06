@@ -17,3 +17,7 @@ Ok, I saved the file after adding 13 and then staged it. I ran git diff.  Nothin
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When developing a new feature you are not sure you want included with your main build.
+
+How do the diagrams help you visualize the branch structure?
+
+They show you the relationship between commits back to a joint parent.
