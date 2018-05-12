@@ -13,3 +13,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	I would branch when working with a clone or fork when I want to preserve the master file 
 	and work on new features or testing.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It would allow you to view changes between the local master and the origin/master.
+	You could then decide if you wish to merge those changes or continue working on the 
+	seperate branch.
