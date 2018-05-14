@@ -24,3 +24,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	You could do it using Dropbox or a similar service; however it would be a nightmare
 	trying to manage the project and keep things organized.  Using a version control
 	system like Git/Github is much easier once you get past the learning curve.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	I would use a seperate branch if I were testing a new feature or making radical changes.  
+	Seperate branches also make a lot of sense if you are collaboratively working on 
+	projects.
